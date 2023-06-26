@@ -1,0 +1,12 @@
+.footer {
+  color: rgba($color: #000000, $alpha: .3);
+  font-size: .70rem;
+  font-family: 'Arial', sans-serif;
+
+  .footer__a {
+    font-weight: bold;
+    display: inline-block;
+    padding-left: 4px;
+  }
+
+}

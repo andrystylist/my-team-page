@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 150px;
+  width: 100%;
+  margin-bottom: 2rem;
+
+  .header__h1 {
+    font-family: 'Bacasime Antique', serif;
+    font-size: 1.7rem;
+    color: black;
+    font-weight: bold;
+  }
+
+  .header__section {
+    width: 235px;
+
+    .header__h2 {
+      font-size: medium;
+      color: black;
+    }
+
+    .header__p {
+      font-size: .8rem;
+      text-align: justify;
+      color: rgb(38, 38, 38, .50);
+
+    }
+  }
+}
